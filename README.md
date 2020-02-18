@@ -10,3 +10,8 @@ This is a repository where you can find the "homepages" of the aeternity's Netwo
 
 ## Notes for devs
 These "homepages" share the same CSS
+
+
+## Screenshot
+
+![](screenshot.png)
